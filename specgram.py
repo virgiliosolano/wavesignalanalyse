@@ -1,5 +1,3 @@
-  GNU  GNU nano 2.2.6                                    File: wavesignal.py                                                                               
-
 #!/usr/bin/env python
 # create a wave with 1Mhz and 0.5Mhz frequencies
 import matplotlib.pyplot as plt
